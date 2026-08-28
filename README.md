@@ -56,7 +56,6 @@ A web-based Job Portal that connects job seekers with employers, allowing users 
 
 📂 Repository: [Job Portal Repository](https://github.com/krgowsalya1406-gif/Online-Job-Portal.git)
 
----
 
 
 
