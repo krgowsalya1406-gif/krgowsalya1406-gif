@@ -28,7 +28,7 @@
 <p align="left">
 
 <a href="[Your LinkedIn URL]">
-  <img src="https://www.linkedin.com/in/gowsalya-k-r-16b037363?utm_source=share_via&utm_content=profile&utm_medium=member_android/>
+  <img src="https://www.linkedin.com/in/gowsalya-k-r-16b037363?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
 </a>
 
 <a href="mailto:[Your Email Address]">
