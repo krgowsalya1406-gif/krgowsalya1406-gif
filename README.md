@@ -65,7 +65,7 @@ A web-based Job Portal that connects job seekers with employers, allowing users 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krgowsalya1406-gif&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krgowsalya1406-gif&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krgowsalya1406-gif&layout=compact&theme=tokyonight&hide_border=true"/>
 
