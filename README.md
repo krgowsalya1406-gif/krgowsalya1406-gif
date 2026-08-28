@@ -58,13 +58,6 @@ A web-based Job Portal that connects job seekers with employers, allowing users 
 
 ---
 
-## 🎓 Student Management System
-
-A web-based Student Management System designed to manage student, teacher, and department information.
-
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
-📂 Repository: Add your repository link here
 
 ---
 
