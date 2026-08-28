@@ -1,16 +1,133 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gowsalya</h1>
 
-<!--
-**krgowsalya1406-gif/krgowsalya1406-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🌐 BE Computer Science and Engineering Student | Aspiring Web Developer | Passionate Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Learning Web Development & Programming <br>
+  🚀 Building Projects and Exploring New Technologies
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 I'm a **BE Computer Science and Engineering (CSE) student**.
+- 💻 Interested in **Web Development and Programming**.
+- 🚀 I enjoy turning ideas into real-world projects.
+- 🌱 Currently learning **HTML, CSS, JavaScript, and Python**.
+- 🤝 Open to learning and collaborating on interesting projects.
+- 📚 Always exploring new technologies and improving my coding skills.
+- ⚡ Fun Fact: I enjoy building useful web applications.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="[Your LinkedIn URL]">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:[Your Email Address]">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💼 Job Portal
+
+A web-based Job Portal that connects job seekers with employers, allowing users to search for jobs and explore career opportunities.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+📂 Repository: [Job Portal Repository](https://github.com/krgowsalya1406-gif)
+
+---
+
+## 🎓 Student Management System
+
+A web-based Student Management System designed to manage student, teacher, and department information.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+📂 Repository: Add your repository link here
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krgowsalya1406-gif&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krgowsalya1406-gif&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krgowsalya1406-gif&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🛠 Currently Working On
+
+- 💼 Building web development projects.
+- 🌱 Improving my HTML, CSS, and JavaScript skills.
+- 🐍 Learning Python programming.
+- 🎨 Exploring responsive UI/UX design.
+
+---
+
+# 📚 Currently Learning
+
+- HTML & CSS
+- JavaScript
+- Python
+- Web Development
+- Git & GitHub
+
+---
+
+# 🎯 My Goals
+
+- 🚀 Build more real-world projects.
+- 💻 Improve my programming skills.
+- 🌱 Learn modern web technologies.
+- 🤝 Contribute to interesting projects.
+- 📁 Build a strong developer portfolio.
+
+---
+
+# 💡 Favorite Quote
+
+> "The best way to learn programming is by building projects."
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
+
+<p align="center">
+  Keep learning, keep building, and never stop exploring! 🚀
+</p>
