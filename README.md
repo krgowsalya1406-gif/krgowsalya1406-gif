@@ -27,11 +27,11 @@
 
 <p align="left">
 
-<a href="[Your LinkedIn URL]">
-  <img src="https://www.linkedin.com/in/gowsalya-k-r-16b037363?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
+<a href="[https://www.linkedin.com/in/gowsalya-k-r-16b037363]">
+  <img src=""https://img.shields.io/badge/LinkedIn-0077B5?style=forthe-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:[Your Email Address]">
+<a href="mailto:[krgowsalya1406@gmail.com]">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
