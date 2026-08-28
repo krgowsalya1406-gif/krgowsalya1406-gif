@@ -59,9 +59,6 @@ A web-based Job Portal that connects job seekers with employers, allowing users 
 ---
 
 
----
-
-# 📊 GitHub Stats
 
 
 
