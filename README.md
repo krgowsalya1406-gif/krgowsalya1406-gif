@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a **BE Computer Science and Engineering (CSE) student**.
+- 🎓 I'm a **BE Computer Science and Engineering  student**.
 - 💻 Interested in **Web Development and Programming**.
 - 🚀 I enjoy turning ideas into real-world projects.
 - 🌱 Currently learning **HTML, CSS, JavaScript, and Python**.
