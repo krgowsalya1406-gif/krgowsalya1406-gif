@@ -5,7 +5,7 @@
 <!-- ===================================================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Gowsalya%20K.R.&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=B.E.%20Computer%20Science%20%26%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cybersecurity%20Explorer&descSize=17&descAlignY=58"/>
+<img width="100%" src="file:///C:/Users/dell5420/Desktop/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d384235434636266865696768743d3235302673656374696f6e3d68656164657226746578743d476f7773616c79612532304b2.svg"/>
 
 </div>
 <h1 align="center">
