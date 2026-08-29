@@ -175,11 +175,10 @@ width="400"
 ---
 
 # 🔥 GitHub Streak
-
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgowsalya1406-gif&theme=tokyonight"
-    width="100%"
+    src="https://streak-stats.demolab.com?user=krgowsalya1406-gif&theme=tokyonight&hide_border=true"
+    width="70%"
   />
 </p>
 
@@ -188,15 +187,20 @@ width="400"
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[GitHubUsername]&theme=tokyo-night"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgowsalya1406-gif&theme=tokyonight"
+    width="100%"
+  />
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=krgowsalya1406-gif&theme=tokyonight&no-frame=true&margin-w=10"
+    width="90%"
+  />
 </p>
 
 ---
