@@ -78,45 +78,45 @@
 
 # 🚀 Featured Projects
 
-## 🌍 Portfolio Website
-
-Modern personal portfolio showcasing projects, skills, and experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `React`
-
-🔗 Live Demo: [Portfolio URL]
-
-📁 Repository: [GitHub Repository]
+🚀 Featured Projects
 
 ---
 
-## 🛒 E-Commerce Website
+💼 Job Portal
 
-A responsive online shopping platform with authentication and cart functionality.
+A modern job portal designed to help freshers discover job opportunities, explore career options, and upload their resumes.
 
-**Tech Stack**
+Tech Stack
+"HTML" "CSS" "JavaScript"
 
-`React` `Node.js` `Express` `MongoDB`
-
-🔗 Live Demo: [Project URL]
-
-📁 Repository: [GitHub Repository]
+🔗 Live Demo: [Job Portal URL]
+📂 Repository: [GitHub Repository]
 
 ---
 
-## ✅ Task Management App
+🎁 Donate Smarter
 
-A productivity application to organize daily tasks with authentication.
+A smart donation platform that allows users to donate items, request available items, track donations, and view their community impact.
 
-**Tech Stack**
+Tech Stack
+"HTML" "CSS" "JavaScript" "PHP" "MySQL"
 
-`React` `Firebase` `Tailwind CSS`
+🔗 Live Demo: [Donate Smarter URL]
+📂 Repository: [GitHub Repository]
 
-🔗 Live Demo: [Project URL]
+---
 
-📁 Repository: [GitHub Repository]
+🎓 Student Management System
+
+A web-based student management system for managing students, teachers, attendance, academic information, and other educational activities.
+
+Tech Stack
+"HTML" "CSS" "JavaScript" "PHP" "MySQL"
+
+🔗 Live Demo: [Student Management System URL]
+📂 Repository: [GitHub Repository]
+
+---
 
 ---
 
@@ -187,9 +187,7 @@ width="400"
 
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+
 
 ---
 
