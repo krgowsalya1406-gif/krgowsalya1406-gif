@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm K.R.Gowsalya</h1>
 
 <h3 align="center">
-🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
+🌐 Full Stack Web Developer | AI Enthusiast | Technology Explorer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 
 ---
 
----
+
 
 # 🚀 Featured Projects
 
