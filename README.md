@@ -1,267 +1,210 @@
-<!-- ===================================================== -->
+<!-- =====================================================
+     GOWSALYA K.R. - GITHUB PROFILE README
+===================================================== -->
 
-<!--              🌟 GITHUB PROFILE README                 -->
-
-<!-- ===================================================== -->
 <div align="center">
 
-<img width="100%" src="file:///C:/Users/dell5420/Desktop/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d384235434636266865696768743d3235302673656374696f6e3d68656164657226746578743d476f7773616c79612532304b2.svg"/>
+<img src="./header.svg" width="100%" alt="Gowsalya K.R. Profile Banner">
 
 </div>
-<h1 align="center">
-  👋 Hi, I'm Your Name
-</h1>
 
-<h3 align="center">
-  💻 Computer Science Student | 🌐 Web Developer | 🚀 Tech Enthusiast
-</h3>
+<br>
+
+<!-- ================= PROFILE VIEWS ================= -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=krgowsalya1406-gif&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views">
+
+</div>
+
+<br>
+
+<!-- ================= ABOUT ME ================= -->
+
+## 👋 About Me
+
+🎓 **B.E. Computer Science & Engineering Student**
+
+💻 **Web Developer**
+
+🤖 **AI/ML Enthusiast**
+
+🔐 **Cybersecurity Explorer**
+
+I am passionate about technology, software development, Artificial
+Intelligence, Machine Learning, and modern web development.
+
+I enjoy creating practical projects that solve real-world problems
+and continuously learning new technologies.
+
+---
+
+<!-- ================= WHAT I DO ================= -->
+
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- Frontend Development
+- Full Stack Development
+
+</td>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Artificial Intelligence
+- Machine Learning
+- AI Applications
+- Data Analysis
+- AI-powered Projects
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+- Web Security
+- Cybersecurity Fundamentals
+- Secure Applications
+- Authentication
+- Security Awareness
+
+</td>
+
+<td width="50%">
+
+### 💻 Programming
+
+- C
+- C++
+- Java
+- Python
+- JavaScript
+- Data Structures & Algorithms
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Web+Development+Enthusiast;Building+Creative+Projects;Learning+%26+Growing+Every+Day;Turning+Ideas+Into+Code+🚀" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+
 </p>
 
+### 🌐 Web Technologies
 
----
+<p align="center">
 
-# 👨‍💻 About Me
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
 
-Hello! I'm **Your Name**, a passionate Computer Science student who enjoys exploring technology and creating useful applications.
-
-* 🎓 Computer Science Student
-* 💻 Interested in Web Development
-* 🌱 Currently learning modern technologies
-* 🚀 Enjoy building real-world projects
-* 🧠 Passionate about problem solving
-* 🎨 Interested in creating clean and user-friendly interfaces
-* ☁️ Exploring Cloud Computing
-* 🤝 Open to collaboration and new opportunities
-* ⚡ Fun fact: **I enjoy turning ideas into working projects!**
-
----
-
-# 🛠️ My Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
 </p>
 
-### ⚙️ Backend
+### 🤖 AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
 </p>
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
 </p>
 
 ### 🔧 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🏫 Student Management System
-
-A web-based application for managing student information, assignments and academic details.
-
-### ✨ Features
-
-* 👨‍🎓 Student profiles
-* 📚 Assignment management
-* 📊 Academic information
-* 🔍 Student search
-* 📱 Responsive interface
-* 🎨 Modern dashboard
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **Live Demo:** Add your link here
-📂 **Repository:** Add your GitHub repository here
-
----
-
-## 🌐 Personal Portfolio
-
-A responsive portfolio website showcasing my skills, projects and development journey.
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **Live Demo:** Add your portfolio link here
-📂 **Repository:** Add your repository link here
-
----
-
-## 💡 Project 3
-
-🚧 **Coming Soon...**
-
-Currently working on another exciting project.
-
----
-
-# 📊 GitHub Statistics
-
 <p align="center">
-  <img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+<!-- ================= PROJECTS ================= -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+## 🌟 Featured Projects
 
----
+### 🎓 Student Management System
 
-# 🏆 GitHub Trophies
+A web-based system designed to manage students, teachers,
+attendance, departments, and academic information.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+**Technologies:** HTML • CSS • JavaScript
 
 ---
 
-# 📈 Contribution Graph
+### 📚 Learning Management System
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-</p>
+An interactive learning platform containing courses, lessons,
+videos, quizzes, progress tracking, and certificates.
 
----
-
-# 🌱 Currently Learning
-
-| Technology      | Progress                  |
-| --------------- | ------------------------- |
-| HTML & CSS      | ████████████████████ 100% |
-| JavaScript      | ███████████████░░░░░ 75%  |
-| React           | ████████████░░░░░░░░ 60%  |
-| Java            | ██████████████░░░░░░ 70%  |
-| Python          | ████████████░░░░░░░░ 60%  |
-| Cloud Computing | ██████████░░░░░░░░░░ 50%  |
+**Technologies:** HTML • CSS • JavaScript
 
 ---
 
-# 🎯 My Goals
+### 💼 Job Portal
 
-* 🚀 Become a skilled Full Stack Developer
-* ☁️ Learn Cloud Computing
-* 🐳 Explore Docker and DevOps
-* 🧠 Improve Data Structures & Algorithms
-* 🌍 Contribute to Open Source
-* 💡 Build innovative real-world applications
-* 📚 Continuously improve my technical skills
-* 💼 Prepare for a successful software development career
+A platform designed to help students and fresh graduates
+explore job opportunities and career resources.
+
+**Technologies:** HTML • CSS • JavaScript
 
 ---
 
-# 💼 What I'm Working On
+### 🎁 Donate Smarter
+
+A donation platform where users can donate items, request
+available items, manage donations, and view community impact.
+
+**Technologies:** HTML • CSS • JavaScript • PHP
+
+---
+
+### 🤖 AI / ML Projects
+
+Projects focused on Artificial Intelligence, Machine Learning,
+prediction systems, and intelligent applications.
+
+**Technologies:** Python • Machine Learning • AI
+
+---
+
+<!-- ================= CURRENTLY LEARNING ================= -->
+
+## 🌱 Currently Learning
 
 ```text
-🔨 Building       → Web Applications
-📚 Learning       → Full Stack Development
-☁️ Exploring      → Cloud Computing
-🎨 Improving      → UI/UX Design
-🧠 Practicing     → Problem Solving
-🚀 Planning       → Future Projects
-```
-
----
-
-# 📚 My Development Journey
-
-```text
-          👶 Started Coding
-                 │
-                 ▼
-          🌐 Web Development
-                 │
-                 ▼
-          💻 Built Projects
-                 │
-                 ▼
-          🧠 Learned Programming
-                 │
-                 ▼
-          ☁️ Exploring Cloud
-                 │
-                 ▼
-          🚀 Full Stack Developer
-                 │
-                 ▼
-             🌟 Future
-```
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💭 Developer Quote
-
-<p align="center">
-
-### 🚀 "Code. Learn. Build. Repeat."
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-<p align="center">
-
-## ✨ Thanks for visiting my profile! ✨
-
-### ⭐ If you like my work, consider starring my repositories.
-
-**Keep Learning • Keep Building • Keep Growing 🚀**
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+🤖 Artificial Intelligence
+🧠 Machine Learning
+🌐 Full Stack Development
+🔐 Cybersecurity
+☁️ Cloud Technologies
+💻 Data Structures & Algorithms
