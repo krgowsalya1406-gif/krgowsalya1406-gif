@@ -3,15 +3,11 @@
 <!--              🌟 GITHUB PROFILE README                 -->
 
 <!-- ===================================================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/Hi, I'm Gowsalya K.R.
+<div align="center">
 
-### 💻 B.E. Computer Science & Engineerin>
-  Hi, I'm Gowsalya K.R.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Gowsalya%20K.R.&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=B.E.%20Computer%20Science%20%26%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cybersecurity%20Explorer&descSize=17&descAlignY=58"/>
 
-### 💻 B.E. Computer Science & Engineerin
-</p>
-
+</div>
 <h1 align="center">
   👋 Hi, I'm Your Name
 </h1>
