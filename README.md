@@ -124,6 +124,15 @@ A productivity application to organize daily tasks with authentication.
 
 # 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgowsalya1406-gif&theme=tokyonight" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krgowsalya1406-gif&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krgowsalya1406-gif&theme=tokyonight"/>
+</p>
+
 <table align="center">
 <tr>
 <td align="center">
