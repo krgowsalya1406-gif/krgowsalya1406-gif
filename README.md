@@ -122,7 +122,7 @@ A productivity application to organize daily tasks with authentication.
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgowsalya1406-gif&theme=tokyonight" width="95%"/>
@@ -177,7 +177,10 @@ width="400"
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgowsalya1406-gif&theme=tokyonight"
+    width="100%"
+  />
 </p>
 
 ---
