@@ -1,217 +1,203 @@
-# 👋 Hi, I'm Gowsalya K R
+👋 Hi, I'm Gowsalya K R
+💻 B.E. Computer Science & Engineering Student | Web Developer | AI/ML Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=B.E.+Computer+Science+Engineering+Student;AI+%26+ML+Enthusiast;Web+Developer+%7C+Problem+Solver;Building+Ideas+Into+Real+Projects;Always+Learning+%26+Creating" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krgowsalya1406-gif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/krgowsalya1406-gif?label=Followers&style=flat" alt="Followers" /> </p>
 
-<p align="center">
-  <b>🎓 CSE Student | 💻 Developer | 🤖 AI/ML Enthusiast | 🚀 Project Builder</b>
-</p>
+🚀 Turning ideas into practical digital solutions.
 
----
+I'm a Computer Science & Engineering student passionate about building useful software, exploring AI, and creating technology that solves real-world problems.
 
-## 🌟 About Me
+🌟 About Me
 
-I'm a **B.E. Computer Science and Engineering student** who enjoys turning ideas into practical digital solutions.
+🎓 B.E. Computer Science & Engineering Student
 
-* 🎓 Pursuing **B.E. Computer Science & Engineering**
-* 💻 Interested in **Web Development, Python, AI & Machine Learning**
-* 🧠 Love building projects that solve **real-world problems**
-* 🚀 Exploring innovative ideas in **EdTech, AI, productivity and smart systems**
-* 🛠️ Currently improving my skills in **HTML, CSS, JavaScript, Python, Java & MySQL**
-* 📚 Always learning something new and experimenting with technology
-* 🤝 Open to **collaboration, internships, hackathons and interesting projects**
+💻 Interested in Web Development, Python, AI & Machine Learning
 
-> **I don't just learn technology — I try to build something with it.**
+🧠 Passionate about real-world problem solving
 
----
+🚀 Exploring EdTech, AI, Productivity & Smart Systems
 
-## 🧩 What I Build
+🛠️ Currently working with HTML, CSS, JavaScript, Python, Java & MySQL
 
-```text
-🌐 Web Applications
-🤖 AI / ML Projects
-🎓 Education Technology
-📊 Student Management Systems
-⚡ Productivity Tools
-💡 Smart Problem-Solving Applications
-```
+📚 Constantly learning, experimenting and building
 
----
+🤝 Open to collaborations, internships, hackathons & innovative projects
 
-## 💻 Tech Stack
+⚡ My Mindset
+Learn → Build → Test → Fail → Improve → Build Better
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode,php" />
-</p>
+I don't just learn technology — I turn ideas into working projects.
 
-### 🛠️ Skills
+🧩 What I Build
 
-| Area        | Technologies                     |
-| ----------- | -------------------------------- |
-| Frontend    | HTML, CSS, JavaScript            |
-| Programming | Python, Java                     |
-| Database    | MySQL                            |
-| Backend     | PHP, XAMPP                       |
-| AI / ML     | Python, Pandas, Machine Learning |
-| Tools       | Git, GitHub, VS Code             |
-| Design      | Responsive UI/UX                 |
+<table> <tr> <td align="center">🌐<br><b>Web Apps</b></td> <td align="center">🤖<br><b>AI / ML</b></td> <td align="center">🎓<br><b>EdTech</b></td> </tr> <tr> <td align="center">📊<br><b>Management Systems</b></td> <td align="center">⚡<br><b>Productivity Tools</b></td> <td align="center">💡<br><b>Smart Solutions</b></td> </tr> </table>
 
----
+💻 Tech Stack
+🎨 Frontend
 
-## 🚀 Featured Projects
+<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
 
-### 🧠 Cognitive Drift Detection System
+🧠 Programming & AI
 
-A Python-based system designed to identify distraction and cognitive drift by analysing work behaviour.
+<p> <img src="https://skillicons.dev/icons?i=python,java" /> </p>
 
-**Monitors:**
+🗄️ Database & Backend
 
-* Active application usage
-* Idle time
-* Task switching
-* Keyboard and mouse activity
-* Productive vs non-productive application usage
+<p> <img src="https://skillicons.dev/icons?i=mysql,php" /> </p>
 
-**Tech:** `Python` `Pandas` `Rule-Based Analysis`
+🛠️ Tools
 
----
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
-### 🎓 Student Management System
+📌 Skills
+HTML              ████████████████████
+CSS               ███████████████████
+JavaScript        █████████████████
+Python            █████████████████
+Java              ██████████████
+MySQL             ███████████████
+Git & GitHub      █████████████████
+AI / ML           █████████████
+🚀 Featured Projects
+🧠 Cognitive Drift Detection System
 
-A web-based student management platform designed to organize student information and provide a clean dashboard experience.
+A productivity-focused system designed to detect distraction and cognitive drift.
 
-**Features:**
+The system analyses work behaviour and identifies patterns that may indicate loss of focus.
 
-* Student dashboard
-* Student profiles
-* Department management
-* Student statistics
-* Personal details
-* Assignment-related features
+🔍 Monitors
+🖥️ Active application usage
+⏱️ Idle time
+🔄 Frequent task switching
+⌨️ Keyboard activity
+🖱️ Mouse activity
+📊 Productive vs non-productive application usage
+🛠️ Technology
 
-**Tech:** `HTML` `CSS` `JavaScript`
+Python Pandas Rule-Based Analysis
 
----
+🎓 Student Management System
 
-### 💼 JobNova — Fresher Job Portal
+A clean web-based platform for managing and viewing student information.
 
-A job portal concept designed specifically for students and fresh graduates.
+✨ Features
+📊 Student dashboard
+👨‍🎓 Student profiles
+🏫 Department management
+📈 Student statistics
+👤 Personal details
+📝 Assignment-related features
+🛠️ Technology
 
-**Planned Features:**
+HTML CSS JavaScript
 
-* 🔎 Job search
-* 🤖 AI job recommendations
-* 📄 Resume builder
-* 📊 Resume score
-* 🎯 Skill development hub
-* 💬 AI career assistant
-* 🎤 Mock interview practice
-* 🔔 Job alerts
+💼 JobNova — Fresher Job Portal
 
-**Tech:** `HTML` `CSS` `JavaScript` `JSON` `LocalStorage`
+A career platform concept designed specifically for students and fresh graduates.
 
----
+🚀 Planned Features
+Feature	Purpose
+🔎 Job Search	Discover relevant opportunities
+🤖 AI Recommendations	Find jobs based on skills
+📄 Resume Builder	Create professional resumes
+📊 Resume Score	Identify resume improvements
+🎯 Learning Hub	Improve technical skills
+💬 AI Career Assistant	Career guidance
+🎤 Mock Interviews	Practice interviews
+🔔 Job Alerts	Stay updated with opportunities
+🛠️ Technology
 
-### 🤝 DonateSmart
+HTML CSS JavaScript JSON LocalStorage
 
-A resource donation management concept connecting donors with organizations that need resources.
+🤝 DonateSmart
 
-**Key Ideas:**
+Give more. Waste less. Help more.
 
-* Smart resource matching
-* Donation tracking
-* NGO dashboard
-* Donation impact tracking
-* Notifications
-* Smart donation calendar
+A resource donation management concept designed to connect donors with organizations that need resources.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+💡 Key Ideas
+🔗 Smart resource matching
+📍 Donation tracking
+🏢 NGO dashboard
+📊 Donation impact tracking
+🔔 Notifications
+📅 Smart donation calendar
+🛠️ Technology
 
----
+HTML CSS JavaScript
 
-## 📈 GitHub Journey
+📊 GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krgowsalya1406-gif&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krgowsalya1406-gif&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krgowsalya1406-gif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krgowsalya1406-gif&theme=tokyonight&hide_border=true"/>
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krgowsalya1406-gif&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krgowsalya1406-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krgowsalya1406-gif&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=krgowsalya1406-gif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" /> </p>
 
----
+📈 Contribution Graph
 
-## 🌱 Currently Learning
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=krgowsalya1406-gif&theme=tokyo-night&hide_border=true" alt="Contribution Graph" /> </p>
 
-```text
-Python & Machine Learning
-        ↓
-Web Development
-        ↓
-Database Management
-        ↓
-AI-powered Applications
-        ↓
-Advanced Software Development
-```
+🌱 Currently Learning
+                 🐍 Python
+                     ↓
+             🤖 Machine Learning
+                     ↓
+              🌐 Web Development
+                     ↓
+              🗄️ Database Systems
+                     ↓
+             🧠 AI Applications
+                     ↓
+          🚀 Advanced Software Development
+🎯 2026 Goals
+🚀 Build more real-world applications
+🤖 Develop useful AI-powered solutions
+💻 Become a stronger software developer
+🏆 Participate in hackathons
+🌍 Contribute to open-source projects
+📚 Continuously improve technical skills
+💼 Gain valuable industry experience
+🧩 Build projects that solve meaningful problems
+💡 Developer Philosophy
+╔══════════════════════════════════════════╗
+║                                          ║
+║     START WITH AN IDEA                   ║
+║              ↓                           ║
+║          BUILD IT                        ║
+║              ↓                           ║
+║          BREAK IT                        ║
+║              ↓                           ║
+║        UNDERSTAND IT                     ║
+║              ↓                           ║
+║         IMPROVE IT                       ║
+║              ↓                           ║
+║          REPEAT                          ║
+║                                          ║
+╚══════════════════════════════════════════╝
 
----
+"Start with an idea. Build it. Break it. Improve it. Repeat."
 
-## 🎯 My Goals
+I believe the best way to learn technology is to build, experiment, solve problems and keep improving.
 
-* 🚀 Build more real-world projects
-* 🤖 Create useful AI-powered applications
-* 💻 Become a strong software developer
-* 🏆 Participate in hackathons
-* 🌍 Contribute to open-source projects
-* 📚 Continuously improve my technical skills
-* 💼 Gain industry experience through internships
-
----
-
-## 💡 My Developer Philosophy
-
-> **"Start with an idea. Build it. Break it. Improve it. Repeat."**
-
-I believe the best way to learn technology is to **build**, experiment and solve problems.
-
----
-
-## 🤝 Let's Connect
+🤝 Let's Connect
 
 <p align="center">
 
-<a href="https://github.com/krgowsalya1406-gif">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/krgowsalya1406-gif"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" /> </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a>
 
 </p>
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krgowsalya1406-gif&label=Profile%20Views&color=7C3AED&style=flat"/>
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+Thanks for visiting my profile! 🚀
+
 </p>
-
-<h3 align="center">
-  ✨ Thanks for visiting my profile!
-</h3>
-
-<p align="center">
-  <i>Learning • Building • Improving • Creating</i>
-</p>
-
