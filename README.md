@@ -5,6 +5,9 @@
 <!-- ===================================================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  Hi, I'm Gowsalya K.R.
+
+### 💻 B.E. Computer Science & Engineerin
 </p>
 
 <h1 align="center">
