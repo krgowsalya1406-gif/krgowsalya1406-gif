@@ -1,147 +1,247 @@
-# 👋 Hi, I'm Your Name
+<!-- =========================
+     PROFILE HEADER
+========================= -->
 
-### 🎓 Computer Science Student | 💻 Developer | 🚀 Tech Explorer
+<div align="center">
 
-> *Turning ideas into projects, and projects into experience.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=Raj%20Saranya&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Full%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Cybersecurity%20Enthusiast&descSize=20&descAlignY=60"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Passionate+Developer;Learning+Something+New+Every+Day;Building+Projects+That+Matter!" />
+</div>
+
+<!-- =========================
+     PROFILE VIEWS
+========================= -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+
+</div>
+
+<br>
+
+<!-- =========================
+     ABOUT ME
+========================= -->
+
+## 👋 About Me
+
+Hi! I'm **Gowsalya**, an aspiring **AI Full Stack Developer**, **AI Explorer**, and **Cybersecurity Enthusiast**.
+
+I enjoy building modern web applications, exploring Artificial Intelligence and Machine Learning, and learning about cybersecurity.
+
+- 💻 AI Full Stack Developer
+- 🤖 AI & Machine Learning Explorer
+- 🔐 Cybersecurity Enthusiast
+- 🌐 Full Stack Web Developer
+- 🚀 Interested in innovative technology
+- 📚 Always learning and improving
+- 💡 Love turning ideas into real-world projects
+
+---
+
+<!-- =========================
+     TECH STACK
+========================= -->
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## 🌱 About Me
+<!-- =========================
+     WHAT I DO
+========================= -->
 
-* 🎓 I'm a **Computer Science student** passionate about technology.
-* 💻 I enjoy building **web applications and software projects**.
-* 🧠 I like learning by **creating real-world projects**.
-* ☁️ Exploring **Cloud Computing and modern technologies**.
-* 🎨 Interested in creating clean and user-friendly interfaces.
-* 🚀 Currently working on improving my development skills.
-* 🤝 Open to learning, collaborating, and building new things.
+## 💻 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack Development
+
+- Responsive websites
+- Frontend development
+- Backend development
+- REST APIs
+- Database integration
+
+</td>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- AI applications
+- Data analysis
+- Prediction systems
+- AI-powered web applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+- Web security
+- Security awareness
+- Authentication
+- Secure applications
+- Cybersecurity learning
+
+</td>
+
+<td width="50%">
+
+### 🚀 Project Development
+
+- Student Management Systems
+- LMS platforms
+- Job portals
+- Donation platforms
+- AI-based applications
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ My Tech Stack
+<!-- =========================
+     FEATURED PROJECTS
+========================= -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode,figma" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 ### 🎓 Student Management System
 
-A web-based system designed to manage student information and provide an organized dashboard.
+A web-based system for managing students, teachers, attendance, departments, and academic information.
 
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
-### 📚 Student Assignment Portal
-
-A simple platform for students to view and manage their assignments.
-
-**Tech:** `HTML` `CSS` `JavaScript`
+**Technologies:** HTML • CSS • JavaScript
 
 ---
 
-### 🌐 Personal Portfolio
+### 📚 Learning Management System
 
-A personal website showcasing my skills, projects, learning journey, and achievements.
+An interactive LMS containing courses, lessons, videos, quizzes, course completion and certificates.
 
-**Tech:** `HTML` `CSS` `JavaScript`
+**Technologies:** HTML • CSS • JavaScript
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Job Portal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+A job portal designed especially for students and fresh graduates to explore career opportunities.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+### 🎁 Donate Smarter
+
+A donation platform where users can donate items, request available items, track donations and view community impact.
+
+**Technologies:** HTML • CSS • JavaScript • PHP
+
+---
+
+<!-- =========================
+     GITHUB STATS
+========================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🎯 Currently Learning
+<!-- =========================
+     CONTRIBUTION GRAPH
+========================= -->
 
-* ☕ Java
-* 🌐 Web Development
-* ☁️ Cloud Computing
-* 🗄️ Database Management
-* 🧩 Data Structures & Algorithms
-* 🚀 Modern Development Tools
+## 📈 Contribution Graph
 
----
+<div align="center">
 
-## 💡 My Goals
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
 
-* Build more **real-world projects**
-* Strengthen my **programming fundamentals**
-* Contribute to **Open Source**
-* Improve my **problem-solving skills**
-* Explore **Cloud & Full Stack Development**
-* Build a strong **developer portfolio**
+</div>
 
 ---
 
-## 📫 Connect With Me
+<!-- =========================
+     TROPHIES
+========================= -->
 
-<p align="center">
+## 🏆 GitHub Trophies
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## ✨ A Little About My Journey
+<!-- =========================
+     CURRENTLY LEARNING
+========================= -->
+
+## 🌱 Currently Learning
 
 ```text
-Learn → Build → Make Mistakes → Improve → Repeat 🚀
-```
-
-I believe every project is an opportunity to learn something new.
-
----
-
-## 💭 Favorite Quote
-
-> **"The best way to learn is to build."**
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<h3 align="center">
-  ⭐ Thanks for visiting my profile!
-</h3>
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep growing. 🚀</i>
-</p>
+Artificial Intelligence
+Machine Learning
+Full Stack Development
+Cybersecurity
+Cloud Technologies
+Data Structures & Algorithms
