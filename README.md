@@ -78,10 +78,6 @@
 
 # 🚀 Featured Projects
 
-🚀 Featured Projects
-
----
-
 💼 Job Portal
 
 A modern job portal designed to help freshers discover job opportunities, explore career options, and upload their resumes.
