@@ -124,36 +124,47 @@ A productivity application to organize daily tasks with authentication.
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgowsalya1406-gif&theme=tokyonight"
-    width="95%"
-  />
-</p>
+<table align="center">
+<tr>
+<td align="center">
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krgowsalya1406-gif&theme=tokyonight"
-    width="45%"
-  />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krgowsalya1406-gif&theme=tokyonight"
+width="400"
+/>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krgowsalya1406-gif&theme=tokyonight"
-    width="45%"
-  />
-</p>
+</td>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krgowsalya1406-gif&theme=tokyonight"
-    width="45%"
-  />
+<td align="center">
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krgowsalya1406-gif&theme=tokyonight&utcOffset=5.5"
-    width="45%"
-  />
-</p>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krgowsalya1406-gif&theme=tokyonight"
+width="400"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krgowsalya1406-gif&theme=tokyonight"
+width="400"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krgowsalya1406-gif&theme=tokyonight&utcOffset=5.5"
+width="400"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
