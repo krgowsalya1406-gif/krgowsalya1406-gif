@@ -19,9 +19,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Web+Development+Enthusiast;Building+Creative+Projects;Learning+%26+Growing+Every+Day;Turning+Ideas+Into+Code+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
 
 ---
 
