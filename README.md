@@ -182,17 +182,7 @@ width="400"
   />
 </p>
 
----
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgowsalya1406-gif&theme=tokyonight"
-    width="100%"
-  />
-</p>
----
 
 
 
