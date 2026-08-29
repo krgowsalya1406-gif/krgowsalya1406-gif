@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm K.R.Gowsalya</h1>
 
 <h3 align="center">
 🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
@@ -12,19 +12,26 @@
 
 ## 🚀 About Me
 
-- 💻 I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
-- 🌱 I enjoy turning ideas into real-world projects.
-- 🌿 Currently learning **Next.js, TypeScript, and Cloud Technologies**.
-- 🤝 Open to collaborating on exciting web development and open-source projects.
-- 📚 Always exploring modern technologies and best development practices.
-- ⚡ Fun Fact: **I love solving coding challenges and building useful applications.**
+👩‍💻 I'm Gowsalya K.R, a 3rd-year B.E. Computer Science & Engineering student.
+
+💻 Passionate about Web Development, Artificial Intelligence, and Machine Learning.
+
+🌱 I enjoy creating responsive, user-friendly, and interactive web applications.
+
+🚀 I love turning ideas into practical projects and exploring new technologies.
+
+📚 Currently improving my skills in Full Stack Development, AI/ML, and modern web technologies.
+
+🤝 Open to collaborating on interesting web development, AI/ML, and software projects.
+
+⚡ Fun Fact: I enjoy coding, learning new technologies, and building useful applications.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[LinkedIn URL]">
+<a href="https://www.linkedin.com/in/gowsalya-k-r-16b037363">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -32,7 +39,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:[Email Address]">
+<a href="mailto:krgowsalya1406@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
