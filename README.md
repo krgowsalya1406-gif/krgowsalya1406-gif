@@ -194,52 +194,8 @@ width="400"
 </p>
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=krgowsalya1406-gif&theme=tokyonight&no-frame=true&margin-w=10"
-    width="90%"
-  />
-</p>
 
----
-
-# 🛠 Currently Working On
-
-- 🚀 Building full-stack web applications.
-- 🌱 Learning advanced React ecosystem.
-- ☁️ Exploring cloud deployment and DevOps.
-- 📱 Improving responsive UI/UX design.
-
----
-
-# 📚 Currently Learning
-
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
-
----
-
-# 🎯 Goals for 2025
-
-- ✅ Contribute to Open Source
-- ✅ Build SaaS Applications
-- ✅ Master Full Stack Development
-- ✅ Learn Cloud Computing
-- ✅ Grow My Developer Portfolio
-
----
-
-# 💡 Favorite Quote
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=flat"/>
