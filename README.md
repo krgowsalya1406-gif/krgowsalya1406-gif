@@ -48,9 +48,31 @@
 
 # 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express"/>
 </p>
+
+### 🗄️ Database & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+</p>
+
+### 🤖 Programming & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vite"/>
+</p>
+
+---
 
 ---
 
