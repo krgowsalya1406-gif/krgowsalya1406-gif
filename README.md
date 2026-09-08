@@ -87,7 +87,10 @@ Tech Stack:
 
 🔗 project Demo: [https://drive.google.com/file/d/1g8423RMjPp7ByNngiQ1SyIG-OD-J0ay1/view?usp=drivesdk]
 
+🚀Live Demo:[https://krgowsalya1406-gif.github.io/Online-Job-Portal/]
+
 📂 Repository: [https://github.com/krgowsalya1406-gif/Online-Job-Portal.git]
+
 
 ---
 
@@ -100,6 +103,7 @@ Tech Stack
 
 🔗 Live Demo: [Donate Smarter URL]
 📂 Repository: [GitHub Repository]
+
 
 ---
 
