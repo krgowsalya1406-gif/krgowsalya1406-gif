@@ -98,12 +98,12 @@ Tech Stack:
 
 A smart donation platform that allows users to donate items, request available items, track donations, and view their community impact.
 
-Tech Stack
-"HTML" "CSS" "JavaScript" "PHP" "MySQL"
+Tech Stack:
+"HTML", "CSS", "JavaScript" 
 
 🔗 Live Demo: [https://krgowsalya1406-gif.github.io/DonateSmarter/]
 
-📂 Repository: [GitHub Repository]
+📂 Repository: [https://github.com/krgowsalya1406-gif/DonateSmarter.git]
 
 
 ---
