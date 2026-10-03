@@ -101,7 +101,8 @@ A smart donation platform that allows users to donate items, request available i
 Tech Stack
 "HTML" "CSS" "JavaScript" "PHP" "MySQL"
 
-🔗 Live Demo: [Donate Smarter URL]
+🔗 Live Demo: [https://krgowsalya1406-gif.github.io/DonateSmarter/]
+
 📂 Repository: [GitHub Repository]
 
 
