@@ -106,15 +106,6 @@ Tech Stack:
 
 ---
 
-🎓 Student Management System
-
-A web-based student management system for managing students, teachers, attendance, academic information, and other educational activities.
-
-Tech Stack
-"HTML" "CSS" "JavaScript" "PHP" "MySQL"
-
-🔗 Live Demo: [Student Management System URL]
-📂 Repository: [GitHub Repository]
 
 ---
 
