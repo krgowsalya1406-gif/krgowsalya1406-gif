@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm K.R.Gowsalya</h1>
+ <h1 align="center">✦ Hey, I'm Gowsalya K.R. 👋</h1>
 
-<h3 align="center">
-🌐 Full Stack Web Developer | AI Enthusiast | Technology Explorer
-</h3>
+<h3 align="center">Turning Curiosity into Code & Ideas into Reality.</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Digital+Experiences+%E2%9C%A8;Full+Stack+Development+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning.+Building.+Experimenting.;Code+Today.+Create+Tomorrow.+%F0%9F%9A%80" />
 </p>
 
+<p align="center">
+  <i>A developer in progress, a problem solver by passion, and an explorer by curiosity.</i>
+</p>
+
+<p align="center">
+  🌐 Web Development &nbsp; • &nbsp; 🤖 Artificial Intelligence &nbsp; • &nbsp; 💡 Innovation
+</p>
 ---
 
 ## 🚀 About Me
