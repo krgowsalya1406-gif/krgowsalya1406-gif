@@ -1,19 +1,45 @@
- <h1 align="center">✦ Hey, I'm Gowsalya K.R. 👋</h1>
+ 
+  <h1 align="center">
+  ⚡ GOWSALYA K.R. ⚡
+</h1>
 
-<h3 align="center">Turning Curiosity into Code & Ideas into Reality.</h3>
+<h3 align="center">
+  𓆩 DIGITAL CREATOR • CODE EXPLORER • FUTURE BUILDER 𓆪
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Digital+Experiences+%E2%9C%A8;Full+Stack+Development+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning.+Building.+Experimenting.;Code+Today.+Create+Tomorrow.+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=INITIALIZING+DEVELOPER+MODE...;WELCOME+TO+MY+DIGITAL+UNIVERSE;FULL+STACK+DEVELOPMENT+%3C%2F%3E;ARTIFICIAL+INTELLIGENCE+%F0%9F%A4%96;IDEAS+IN.+INNOVATION+OUT.;THE+FUTURE+IS+BUILT+WITH+CODE." />
 </p>
 
 <p align="center">
-  <i>A developer in progress, a problem solver by passion, and an explorer by curiosity.</i>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=090014" />
+  <img src="https://img.shields.io/badge/MODE-CREATIVE-BC13FE?style=for-the-badge&labelColor=090014" />
+  <img src="https://img.shields.io/badge/MISSION-INNOVATE-FF00FF?style=for-the-badge&labelColor=090014" />
 </p>
 
-<p align="center">
-  🌐 Web Development &nbsp; • &nbsp; 🤖 Artificial Intelligence &nbsp; • &nbsp; 💡 Innovation
-</p>
 ---
+
+<h3 align="center">╔═══ ⚡ ABOUT THE DEVELOPER ⚡ ═══╗</h3>
+
+<p align="center">
+  💻 Building interactive digital experiences<br/>
+  🤖 Exploring AI-powered possibilities<br/>
+  🌐 Developing modern web applications<br/>
+  🧠 Turning complex problems into simple solutions<br/>
+  🚀 Constantly learning, experimenting & evolving
+</p>
+
+<h3 align="center">◈ MY TECH UNIVERSE ◈</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,react,git,github,vscode" />
+</p>
+
+<h3 align="center">⚡ THINK • CREATE • DEBUG • REPEAT ⚡</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,50:6A00F4,100:00F7FF&height=100&section=footer" />
+</p>
 
 ## 🚀 About Me
 
