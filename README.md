@@ -26,19 +26,8 @@ I'm <b>Gowsalya K.R.</b>, a 3rd-year B.E. Computer Science & Engineering student
 - 🤝 Open to collaborations, hackathons, and open-source projects.
 - ⚡ Always learning, exploring, and creating something new.
 
-</td>
 
-<td width="35%" align="center" valign="middle">
 
-<img src="C:\Users\dell5420\Downloads\Gemini_Generated_Image_ws0z0sws0z0sws0z.png" width="280" alt="My Developer Mascot"/>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <i>"Imagine Beyond Limits. Create Beyond Expectations."</i>
-</p>
 
 
 ## 🌐 Connect With Me
