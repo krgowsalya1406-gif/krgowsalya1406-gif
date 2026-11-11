@@ -30,7 +30,7 @@ I'm <b>Gowsalya K.R.</b>, a 3rd-year B.E. Computer Science & Engineering student
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/celebration-fox.png" width="280" alt="My Developer Mascot"/>
+<img src="C:\Users\dell5420\Downloads\Gemini_Generated_Image_ws0z0sws0z0sws0z.png" width="280" alt="My Developer Mascot"/>
 
 </td>
 </tr>
