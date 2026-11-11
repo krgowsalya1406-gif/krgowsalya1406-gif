@@ -1,163 +1,100 @@
-<h1 align="center">Hi 👋, I'm K.R.Gowsalya</h1>
+<!-- 🌌 GITHUB PROFILE README -->
 
-<h3 align="center">
-🌐 Full Stack Web Developer | AI Enthusiast | Technology Explorer
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:092A70,100:7B2FF7&height=200&section=header&text=KR%20GOWSALYA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%20STUDENT&descAlignY=60&descSize=17"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe!;Code+%E2%80%A2+Build+%E2%80%A2+Innovate;Turning+Ideas+Into+Reality;Always+Learning+Something+New!" />
 
-## 🚀 About Me
+### ✨ Dream Big. Code Bigger.
 
-👩‍💻 I'm Gowsalya K.R, a 3rd-year B.E. Computer Science & Engineering student.
-
-💻 Passionate about Web Development, Artificial Intelligence, and Machine Learning.
-
-🌱 I enjoy creating responsive, user-friendly, and interactive web applications.
-
-🚀 I love turning ideas into practical projects and exploring new technologies.
-
-📚 Currently improving my skills in Full Stack Development,  and modern web technologies.
-
-🤝 Open to collaborating on interesting web development, and software projects.
-
-⚡ Fun Fact: I enjoy coding, learning new technologies, and building useful applications.
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 👩‍💻 About Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gowsalya-k-r-16b037363">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-
-
-<a href="mailto:krgowsalya1406@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express"/>
-</p>
-
-### 🗄️ Database & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-</p>
-
-### 🤖 Programming & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vite"/>
-</p>
+```yaml
+Name: KR Gowsalya
+Role: Full Stack Developer
+Education: Computer Science Engineering
+University: Anna University
+Location: India
+Interests:
+  - Web Development
+  - Software Engineering
+  - Creative Problem Solving
+  - Building Real-World Projects
+Currently_Learning: Full Stack Development
+Goal: Build meaningful digital experiences
+```
 
 ---
 
+## ⚡ Tech Stack
 
+<div align="center">
 
-# 🚀 Featured Projects
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
-💼 Job Portal
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
 
-A modern job portal designed to help freshers discover job opportunities, explore career options, and upload their resumes.
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb"/>
 
-Tech Stack:
-"HTML" , "CSS" , "JavaScript"
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 
-🔗 project Demo: [https://drive.google.com/file/d/1g8423RMjPp7ByNngiQ1SyIG-OD-J0ay1/view?usp=drivesdk]
-
-🚀Live Demo:[https://krgowsalya1406-gif.github.io/Online-Job-Portal/]
-
-📂 Repository: [https://github.com/krgowsalya1406-gif/Online-Job-Portal.git]
-
-
----
-
-🎁 Donate Smarter
-
-A smart donation platform that allows users to donate items, request available items, track donations, and view their community impact.
-
-Tech Stack:
-"HTML", "CSS", "JavaScript" 
-
-🔗 Live Demo: [https://krgowsalya1406-gif.github.io/DonateSmarter/]
-
-📂 Repository: [https://github.com/krgowsalya1406-gif/DonateSmarter.git]
-
+</div>
 
 ---
 
+## 🚀 Featured Projects
 
----
-
----
-
-# 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgowsalya1406-gif&theme=tokyonight" width="95%"/>
-</p>
-
-
-
-<table align="center">
+<table>
 <tr>
-<td align="center">
+<td width="50%">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krgowsalya1406-gif&theme=tokyonight"
-width="400"
-/>
+### 🌐 LaunchPad
+**Jobs for Freshers**
+
+A platform connecting fresh graduates with job opportunities.
+
+[View Project](YOUR_PROJECT_LINK)
 
 </td>
+<td width="50%">
 
-<td align="center">
+### 🔐 Agent Firewall
+**Security for AI Agents**
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krgowsalya1406-gif&theme=tokyonight"
-width="400"
-/>
+A security-focused project exploring protection against malicious agent instructions.
+
+[View Project](YOUR_PROJECT_LINK)
 
 </td>
 </tr>
-
 <tr>
-<td align="center">
+<td width="50%">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krgowsalya1406-gif&theme=tokyonight"
-width="400"
-/>
+### 🛒 BillLess
+**Smart Shopping Checkout**
+
+A digital shopping cart and checkout management system.
+
+[View Project](YOUR_PROJECT_LINK)
 
 </td>
+<td width="50%">
 
-<td align="center">
+### 💻 More Projects
+**Creative Development**
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krgowsalya1406-gif&theme=tokyonight&utcOffset=5.5"
-width="400"
-/>
+Explore my other experiments and development projects.
+
+[GitHub Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
 
 </td>
 </tr>
@@ -165,27 +102,66 @@ width="400"
 
 ---
 
-# 🔥 GitHub Streak
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=krgowsalya1406-gif&theme=tokyonight&hide_border=true"
-    width="70%"
-  />
-</p>
+## 📊 GitHub Analytics
 
+<div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816"/>
 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=050816"/>
 
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816"/>
 
-
-
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+## 🏆 Achievements
 
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Let's Connect, Collaborate & Build Something Amazing!
+
+**"Great things are built one line of code at a time."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:092A70,100:050816&height=120&section=footer"/>
+
+</div>
