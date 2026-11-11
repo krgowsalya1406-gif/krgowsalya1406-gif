@@ -1,46 +1,15 @@
  
-  <h1 align="center">
-  ⚡ GOWSALYA K.R. ⚡
-</h1>
+ <h1 align="center">⟡ GOWSALYA K.R. ⟡</h1>
 
-<h3 align="center">
-  𓆩 DIGITAL CREATOR • CODE EXPLORER • FUTURE BUILDER 𓆪
-</h3>
+<h2 align="center">「 Beyond Code. Beyond Limits. 」</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=INITIALIZING+DEVELOPER+MODE...;WELCOME+TO+MY+DIGITAL+UNIVERSE;FULL+STACK+DEVELOPMENT+%3C%2F%3E;ARTIFICIAL+INTELLIGENCE+%F0%9F%A4%96;IDEAS+IN.+INNOVATION+OUT.;THE+FUTURE+IS+BUILT+WITH+CODE." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Dreaming+in+Ideas%2C+Building+in+Code.;Where+Creativity+Meets+Technology.;Turning+Problems+Into+Possibilities.;Creating+Tomorrow%2C+One+Commit+at+a+Time.;Curious+Mind.+Creative+Soul.+Developer+Heart." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=090014" />
-  <img src="https://img.shields.io/badge/MODE-CREATIVE-BC13FE?style=for-the-badge&labelColor=090014" />
-  <img src="https://img.shields.io/badge/MISSION-INNOVATE-FF00FF?style=for-the-badge&labelColor=090014" />
+  <samp>✦ EXPLORE &nbsp; ✦ EXPERIMENT &nbsp; ✦ CREATE &nbsp; ✦ INNOVATE</samp>
 </p>
-
----
-
-<h3 align="center">╔═══ ⚡ ABOUT THE DEVELOPER ⚡ ═══╗</h3>
-
-<p align="center">
-  💻 Building interactive digital experiences<br/>
-  🤖 Exploring AI-powered possibilities<br/>
-  🌐 Developing modern web applications<br/>
-  🧠 Turning complex problems into simple solutions<br/>
-  🚀 Constantly learning, experimenting & evolving
-</p>
-
-<h3 align="center">◈ MY TECH UNIVERSE ◈</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,react,git,github,vscode" />
-</p>
-
-<h3 align="center">⚡ THINK • CREATE • DEBUG • REPEAT ⚡</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,50:6A00F4,100:00F7FF&height=100&section=footer" />
-</p>
-
 ## 🚀 About Me
 
 👩‍💻 I'm Gowsalya K.R, a 3rd-year B.E. Computer Science & Engineering student.
