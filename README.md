@@ -1,16 +1,15 @@
- 
-<h1 align="center">👋 Hi, I'm Gowsalya K.R.</h1>
+ <h1 align="center">👋 Hi, I'm Gowsalya K.R.</h1>
 
 <h3 align="center">
   Full Stack Developer | AI & Technology Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Space+%E2%9C%A8;Building+Ideas+Into+Reality;Exploring+Web+Development+%26+AI;Creating+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+Digital+Space;Building+Ideas+Into+Reality;Exploring+AI+%26+Web+Technologies;Creating+Projects+That+Matter" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20My%20Space&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:141E30,50:243B55,100:00C9FF&text=Welcome%20to%20My%20Space&fontColor=FFFFFF&fontSize=38&fontAlignY=55&animation=fadeIn" width="100%" />
 </p>
 ## 🚀 About Me
 
