@@ -5,12 +5,13 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+Digital+Space;Building+Ideas+Into+Reality;Exploring+AI+%26+Web+Technologies;Creating+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Exploring+the+Boundless+World+of+Technology.;Transforming+Ideas+Through+Technology.;Innovating+Through+Code+and+Creativity.;Building+the+Next+Generation+of+Digital+Solutions.;Driven+by+Technology%2C+Inspired+by+Innovation.;Turning+Technology+into+Real-World+Impact." alt="Technology Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:141E30,50:243B55,100:00C9FF&text=Welcome%20to%20My%20Space&fontColor=FFFFFF&fontSize=38&fontAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:141E30,50:243B55,100:00C9FF&text=Welcome%20to%20My%20Tech%20Universe&fontColor=FFFFFF&fontSize=38&fontAlignY=55&animation=fadeIn" width="100%" />
 </p>
+
 ## 🚀 About Me
 
 👩‍💻 I'm Gowsalya K.R, a 3rd-year B.E. Computer Science & Engineering student.
