@@ -12,23 +12,34 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:141E30,50:243B55,100:00C9FF&text=Welcome%20to%20My%20Tech%20Universe&fontColor=FFFFFF&fontSize=38&fontAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
-## 🚀 About Me
 
-👩‍💻 I'm Gowsalya K.R, a 3rd-year B.E. Computer Science & Engineering student.
+# About
 
-💻 Passionate about Web Development, Artificial Intelligence, and Machine Learning.
+I'm <b>Gowsalya K.R.</b>, a 3rd-year B.E. Computer Science & Engineering student who loves exploring technology, experimenting with ideas, and building meaningful digital experiences.
 
-🌱 I enjoy creating responsive, user-friendly, and interactive web applications.
+- ✨ Exploring the endless possibilities of technology.
+- 🌱 Currently learning Full Stack Development.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 💻 Enjoy creating responsive websites and interactive applications.
+- 🚀 Turning creative ideas into practical projects.
+- 🧩 Passionate about problem-solving and innovation.
+- 🤝 Open to collaborations, hackathons, and open-source projects.
+- ⚡ Always learning, exploring, and creating something new.
 
-🚀 I love turning ideas into practical projects and exploring new technologies.
+</td>
 
-📚 Currently improving my skills in Full Stack Development,  and modern web technologies.
+<td width="35%" align="center" valign="middle">
 
-🤝 Open to collaborating on interesting web development, and software projects.
+<img src="./assets/celebration-fox.png" width="280" alt="My Developer Mascot"/>
 
-⚡ Fun Fact: I enjoy coding, learning new technologies, and building useful applications.
+</td>
+</tr>
+</table>
 
----
+<p align="center">
+  <i>"Imagine Beyond Limits. Create Beyond Expectations."</i>
+</p>
+
 
 ## 🌐 Connect With Me
 
