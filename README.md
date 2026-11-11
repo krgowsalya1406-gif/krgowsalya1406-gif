@@ -1,14 +1,16 @@
  
- <h1 align="center">⟡ GOWSALYA K.R. ⟡</h1>
+<h1 align="center">👋 Hi, I'm Gowsalya K.R.</h1>
 
-<h2 align="center">「 Beyond Code. Beyond Limits. 」</h2>
+<h3 align="center">
+  Full Stack Developer | AI & Technology Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=23&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Dreaming+in+Ideas%2C+Building+in+Code.;Where+Creativity+Meets+Technology.;Turning+Problems+Into+Possibilities.;Creating+Tomorrow%2C+One+Commit+at+a+Time.;Curious+Mind.+Creative+Soul.+Developer+Heart." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Space+%E2%9C%A8;Building+Ideas+Into+Reality;Exploring+Web+Development+%26+AI;Creating+Projects+That+Matter" />
 </p>
 
 <p align="center">
-  <samp>✦ EXPLORE &nbsp; ✦ EXPERIMENT &nbsp; ✦ CREATE &nbsp; ✦ INNOVATE</samp>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20My%20Space&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
 </p>
 ## 🚀 About Me
 
